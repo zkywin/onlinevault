@@ -1,0 +1,11 @@
+[[nephritic syndrome]]
+[[PSGN]]
+[[RPGN]]
+[[HSP]]
+[[d/henoch-schonlein purpura/IgA vasculitis/IgA nephropathy/berger's disease/HSP]]
+[[MPGN]]
+[[DDD]]
+[[C3GN]]
+[[SLE]]
+
+[[endocarditis]]

@@ -1,0 +1,1 @@
+high number of [[neutrophil]] or other granulocyte

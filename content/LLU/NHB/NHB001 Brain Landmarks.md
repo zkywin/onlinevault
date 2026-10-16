@@ -1,0 +1,1 @@
+In the process of [[neural tube]], the [[neural tube]] has 3 swellings. These include the [[forebrain]] with everything called  "cortical" and "subcortical", the [[midbrain]] midbrain, and the [[hindbrain]] brainstem which includes the [[reticular formation]] running all the way through. The [[spinal cord]] has an impressive degree of complexity as well. #done 

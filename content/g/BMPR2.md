@@ -1,0 +1,1 @@
+[[Δ]] causes [[smooth muscle]] proliferation

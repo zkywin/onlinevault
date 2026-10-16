@@ -1,0 +1,1 @@
+reduced or lost feeling "numb"

@@ -1,0 +1,1 @@
+blocks vesicular fusion and release via actin filaments

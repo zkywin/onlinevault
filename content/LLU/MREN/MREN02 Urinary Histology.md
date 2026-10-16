@@ -1,0 +1,6 @@
+[[kidney]]
+[[nephron]]
+[[pelvicalceal system]]
+[[ureter]]
+[[bladder]]
+[[urethra]]

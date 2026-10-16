@@ -1,0 +1,1 @@
+incision in [[fallopian tubes]] to drain

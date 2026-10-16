@@ -1,0 +1,1 @@
+less muscarinic side effects than [[amitryptiline]]

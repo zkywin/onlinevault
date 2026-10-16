@@ -1,0 +1,1 @@
+![[HISTO homer-wright rosettes with neuropil and no lumen.png]]

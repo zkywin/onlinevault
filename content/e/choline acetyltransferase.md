@@ -1,0 +1,1 @@
+forms acetylcholine from acetyl CoA and choline

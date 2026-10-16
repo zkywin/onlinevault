@@ -1,0 +1,1 @@
+like [[cisatracuronium]], no autonomic, cardiac, and histamine side effects.

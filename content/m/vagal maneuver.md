@@ -1,0 +1,1 @@
+carotid massage, cold-water immersion

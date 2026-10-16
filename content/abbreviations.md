@@ -1,0 +1,5 @@
+[[NAOE]]
+[[NKDA]]
+[[CMS]]
+[[PO intake]]
+[[within normal limits/WNL]]

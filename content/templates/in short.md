@@ -1,0 +1,1 @@
+> [!tip] In Short

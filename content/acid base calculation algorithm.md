@@ -1,0 +1,17 @@
+USE EDITING MODE
+
+pH < 7.35
+	pCO2 > 42: RESP ACID
+		x0.1 acute
+		x0.3 chronic
+	HCO3- < 22 MET ACID x1.2
+pH > 7.45
+	pCO2 < 38 RESP ALK 
+		x0.2 acute
+		x0.4 chronic
+	HCO3- > 28 MET ALK x0.7
+AG > 12
+	Corrected HCO3- > 30 HAGMA + MET ALK
+	Corrected HCO3- < 20 HAGMA + MET ACID
+
+IF COMPENSATORY OFF, COMBINED RESP + MET ALK/ACID

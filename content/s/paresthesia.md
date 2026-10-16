@@ -1,0 +1,1 @@
+numb, tingling, burning and pricking sensation

@@ -1,0 +1,5 @@
+✓ [[ACOG false-positive GnRH results]]
+✓ [[ACOG AUB in premenstrual women]]
+✓ [[ACOG early pregnancy loss]]
+✓ [[ACOG primary ovarian insufficiency in the young]]
+✓ [[ACOG tubal ectopic pregnancy]]

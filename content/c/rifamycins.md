@@ -1,0 +1,3 @@
+[[rifampin]]
+[[rifabutin]]
+[[rifapentine]]

@@ -1,0 +1,1 @@
+lasts the longest, up to 100 minutes

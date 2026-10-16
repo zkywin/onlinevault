@@ -1,0 +1,1 @@
+heat slows conduction of demyelinated neurons

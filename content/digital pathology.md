@@ -1,0 +1,1 @@
+the possibility of working from home with digitally scanned slides (and the possibility of making more money...)

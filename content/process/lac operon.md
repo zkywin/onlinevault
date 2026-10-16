@@ -1,0 +1,1 @@
+is a wonderful prokaryote model of [[epigenetics]] gene expression. The bacterium normally uses glucose. However, when glucose is low, an activator ([[CAP]]) for lactase binds to the [[enhancer region]]. However, it is not until lactose is encountered that the repressor is removed from the [[silencer region]], which gives the green light for lactase [[transcription]]

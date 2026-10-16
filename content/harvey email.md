@@ -1,0 +1,5 @@
+Dear Dr. Harvey, it was a pleasure to learn and work with you and the team for the past week. At the beginning of the rotation, I set goals for myself to commit to being thorough in the history and physical exam for patients, build rapport with patients, and to be a communicative/effective team player.
+
+It was a pleasure to learn from the team, and to share some of what I learned through a bite-sized presentation on inflammatory markers. I learned the most this week about sources of infection - especially for our hypotensive patient with the foot ulcer that was ultimately found to have bacteremia. I had not had the habit of comparing likelihoods of infection sources in patients with multiple possible source.
+
+It was also beneficial to learn about best practices in managing the history/problems list for patients to support the team. This is one habit to make a tangible positive difference that I am adopting.

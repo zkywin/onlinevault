@@ -1,0 +1,1 @@
+stroke-volume variance > 10-12 → requires [[fluids rescucitation]]

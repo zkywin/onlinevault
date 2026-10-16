@@ -1,0 +1,3 @@
+There are three unconscious somatic symptoms. [[hypochondriasis]] which is very much an anxiety disorder, [[conversion disorder]] is very much an unconscious, psychogenic feeling of discomfort, and [[somatic symptom]] includes both the discomfort and the anxiety.
+
+The conscious types include [[factitious disorder]] which is more about wanting to be taken care of and [[d/malingering]] which is more related to a monetary or simpler incentive. #done 

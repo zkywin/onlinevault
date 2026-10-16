@@ -1,0 +1,10 @@
+week 4 [[pronephros]] [[mesonephros]] [[metanephros]]
+week 10 [[ureteric bud]] [[metanephric mesoderm]]
+
+[[potter sequence]] 
+[[horseshoe kidney]] 
+[[renal agenesis]]
+[[multicystic dysplastic kidney]]
+[[duplex collecting system]]
+[[posterior urethral valve]]
+[[vesicoureteral reflux]]

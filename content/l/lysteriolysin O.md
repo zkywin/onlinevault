@@ -1,0 +1,1 @@
+lyses phagosome before meeting with lysosome

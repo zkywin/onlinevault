@@ -1,0 +1,1 @@
+medical capacity hold is separate from [[psychiatric hold]]

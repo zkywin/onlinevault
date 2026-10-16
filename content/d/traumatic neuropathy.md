@@ -1,0 +1,1 @@
+causes [[l/wallerian degeneration]]

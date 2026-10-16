@@ -1,0 +1,1 @@
+high dose steroid, lowers inflammation, improves recovery time

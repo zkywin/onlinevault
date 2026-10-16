@@ -1,0 +1,1 @@
+reactivates [[AChE]] in [[Nm]]

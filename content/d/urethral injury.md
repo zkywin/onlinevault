@@ -1,0 +1,20 @@
+
+> [!tip] In Short
+
+> [!info] Etiology/Risk Factors
+> [[anterior urethral injury]]
+> [[posterior urethral injury]]
+> anterior injury (spongy)
+> posterior injury (membranous)
+
+> [!warning] Pathogenesis
+
+> [!danger] Symptoms
+
+> [!question] Objective Findings
+
+> [!abstract] Treatment
+
+> [!example] Relationships
+
+![[Pasted image 20250311153018.png]]

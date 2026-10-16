@@ -1,0 +1,1 @@
+asian female non-smoker with [[adenocarcinoma]] [[lung cancer]]

@@ -1,0 +1,5 @@
+[[autosomal dominant]]
+[[autosomal recessive]]
+[[x-linked recessive]]
+[[x-linked dominant]]
+[[mitochondrial inheritance]]

@@ -1,0 +1,1 @@
+decreases serum concentration of oral contraceptives and warfarin

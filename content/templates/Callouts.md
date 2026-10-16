@@ -1,0 +1,1 @@
+> [!tip] %% BLUE tip abstract NAVY todo info note  GREEN success ORANGE warning question RED failure danger bug PURPLE example GRAY quote %%

@@ -1,0 +1,5 @@
+[[class 1 antiarrhythmic]]
+[[class 2 antiarrhythmic]]
+[[class 3 antiarrhythmic]]
+[[class 4 antiarrhythmic]]
+[[class 5 antiarrhythmic]]

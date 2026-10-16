@@ -1,0 +1,7 @@
+[[breast nodule]] [[breast cancer]]
+[[vaginitis]] [[vulvar pruritis]]  [[vulvar carcinoma]]
+[[cervical dysplasia]] [[cervical cancer]]
+[[fibroids]]
+[[endometrial hyperplasia]] → [[uterine cancer]]
+[[ovarian cyst]] → [[ovarian tumors]]
+[[gestational tumors]]

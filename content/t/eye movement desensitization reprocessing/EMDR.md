@@ -1,0 +1,1 @@
+eye distraction to make sharing of traumatic experiences easier

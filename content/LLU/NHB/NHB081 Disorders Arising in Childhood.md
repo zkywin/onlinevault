@@ -1,0 +1,3 @@
+There are two [[mood disorders]] and two [[anxiety disorder]] specfic to children. Children form [[trauma and stressor disorders]] in two extremes that may co-occur with [[elimination disorders]]. [[disruptive, impulse control, and conduct disorders]] involve either impulsive or explosive behavior that may co-occur with [[substance use]]. [[schizophrenia]] in children is rare but also a possibility.
+
+Disorders that are less temperament related include [[neurocognitive disorders]], [[psych motor disorders]], and [[shaken baby syndrome]]. #done 

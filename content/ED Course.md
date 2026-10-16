@@ -1,0 +1,1 @@
+Vitals, labs, imaging, medications, notable events

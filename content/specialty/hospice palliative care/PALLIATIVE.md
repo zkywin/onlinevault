@@ -1,0 +1,3 @@
+🅢 [[POLST]]
+
+[[palliative care]] → [[hospice]]

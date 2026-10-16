@@ -1,0 +1,2 @@
+[[hypokalemia]]
+[[translocational hypokalemia]]

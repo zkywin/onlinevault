@@ -1,0 +1,1 @@
+more thrombotic than [[PICC line]]

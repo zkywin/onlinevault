@@ -1,0 +1,1 @@
+eosinophilic inclusions in hippocampal neurons

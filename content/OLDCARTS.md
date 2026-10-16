@@ -1,0 +1,1 @@
+onset, location, duration, character, aggravate relieve, timing, severity

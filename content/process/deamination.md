@@ -1,0 +1,1 @@
+[[Δ]] due to heat or [[nitrate]]

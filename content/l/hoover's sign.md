@@ -1,0 +1,1 @@
+hip extension weakness is normal strength with contralateral hip flexion against resistance

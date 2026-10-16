@@ -1,0 +1,1 @@
+> [[aortic regurg]] is the only one that is only on diaphragm

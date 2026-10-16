@@ -1,0 +1,1 @@
+protein marker that differentiates neuroendocrine cells

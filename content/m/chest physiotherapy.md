@@ -1,0 +1,1 @@
+chest percussion, vibration, etc. clears mucus

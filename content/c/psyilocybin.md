@@ -1,0 +1,1 @@
+prodrug form of [[psyilocin]]

@@ -1,0 +1,1 @@
+removal of large vessel strokes within 24 hours

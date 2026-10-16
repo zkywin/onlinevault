@@ -1,0 +1,1 @@
+strength returns to normal against resistance

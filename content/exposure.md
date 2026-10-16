@@ -1,0 +1,2 @@
+remove clothing
+prevent [[hypothermia]]

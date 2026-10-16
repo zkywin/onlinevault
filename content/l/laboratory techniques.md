@@ -1,0 +1,1 @@
+Lab techniques include [[PCR]], [[CRISPR CAS9]], [[southern blot]], [[northern blot]], [[western blot]], [[southwestern blot]], [[flow cytometry]], [[microarray]], [[ELISA]], [[karyotype]], [[FISH]], [[molecular cloning]]

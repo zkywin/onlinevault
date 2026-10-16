@@ -1,0 +1,5 @@
+Dear Dr. Lee, it was a pleasure to learn and work with you and the team for the past week. At the beginning of the rotation, I set goals for myself to commit to being thorough in the history and physical exam for patients, build rapport with patients, and to be a communicative/effective team player.
+
+It was a pleasure to learn from the team, and to share some of what I learned through presenting on the topic of pulmonary embolism. I learned the most this week about ICU care and ventilators through our patient with respiratory distress from a suspected aspiration, as I had little exposure previously. Having two patients who had Afib with RVR was also very helpful, and I feel much more confident with the subject.
+
+It was also beneficial to learn about diuresis, and I plan to learn more about the 2 hr post-lasix urine sodium and creatinine technique that Alex discussed this morning.

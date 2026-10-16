@@ -1,0 +1,1 @@
+[[🅢 pulmonary disease and critical care medicine]] or [[🅢 cardiology ✓]]

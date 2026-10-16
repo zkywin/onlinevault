@@ -1,0 +1,5 @@
+anything to ↑[[preload]] and ↓[[afterload]]
+[[ARNI]] [[ACEi]] [[ARB]]
+[[MRA]]
+[[SGLT2 blocker]]
+[[β1 blockers]]

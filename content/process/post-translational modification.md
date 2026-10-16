@@ -1,0 +1,1 @@
+the released protein may then be trimmed, phosphorylated, glycosylated, methylated, acetylated, ubiquination etc. hydroxylation

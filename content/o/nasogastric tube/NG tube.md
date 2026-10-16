@@ -1,0 +1,1 @@
+can be used to rule out massive [[upper GI bleeding]]

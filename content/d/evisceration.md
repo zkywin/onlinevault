@@ -1,0 +1,16 @@
+
+> [!tip] In Short
+
+> [!info] Etiology/Risk Factors
+
+> [!warning] Pathogenesis
+
+> [!danger] Symptoms
+
+> [!question] Objective Findings
+
+> [!abstract] Treatment
+
+> [!example] Relationships
+
+![](https://www.uworld.com/media/L48918.jpg)

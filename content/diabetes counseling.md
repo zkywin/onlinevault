@@ -1,0 +1,1 @@
+counseling for [[DM1]] is done at the ED or after admission into hospital

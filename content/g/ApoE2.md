@@ -1,0 +1,1 @@
+lower [[alzheimer's]] risk

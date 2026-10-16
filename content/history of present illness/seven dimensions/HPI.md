@@ -1,0 +1,9 @@
+OLDCARTS
+onset
+location
+duration
+character
+aggravating
+relieving
+timing
+severity

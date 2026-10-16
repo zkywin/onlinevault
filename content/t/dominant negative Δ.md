@@ -1,0 +1,1 @@
+single mutant gene dominates the wt gene

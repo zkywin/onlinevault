@@ -1,0 +1,1 @@
+_normal_ colonic tissue with **distorted architecture**

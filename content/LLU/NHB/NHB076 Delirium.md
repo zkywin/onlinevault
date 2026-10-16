@@ -1,0 +1,1 @@
+[[delirium]] ensues when some systemic cause is severe enough to get to the brain. The three biggest patterns seem to be inflammatory, drugs, and vitamin B1 deficiency in [[wernicke's encephalopathy]]. Recognize it quickly, treat the underlying cause, and try to prevent it. It can be differentiated from [[dementia]] lowered attention and [[l/EEG]] slowing. #done 
